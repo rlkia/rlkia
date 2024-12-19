@@ -1,6 +1,7 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncwrld.syncwrld&left_color=blue&right_color=lightgrey&left_text=Views"  />
-</div>
+Olá! Eu sou o Rlkia, um desenvolvedor aprendiz de Java, banco de dados, como MySQL e SQLite, PHP e Java Script. 
+
+Também sou dono de uma pequena loja de plugins, a WindPlugins.
+
 
 ###
 
