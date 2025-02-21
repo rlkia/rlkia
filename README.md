@@ -1,4 +1,4 @@
-Olá! Eu sou o Rlkia, um desenvolvedor aprendiz de Java, banco de dados, como MySQL e SQLite, PHP e Java Script. 
+Olá! Eu sou o xtnq, um desenvolvedor aprendiz de Java, banco de dados, como MySQL e SQLite, PHP e Java Script. 
 
 Também sou dono de uma pequena loja de plugins, a RelicPlugins.(https://discord.gg/xtBthTs48A)
 
